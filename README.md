@@ -4,10 +4,9 @@
 
 ## 👨‍💻 About Me
 - 🎓 I'm currently studying Computer Science at the University of Central Oklahoma!
-- 💻 I'm proficient in C++, and I regularly use tools like Visual Studio 2022, Visual Studio Code, and Neo Vim.
-- 🌱 I’m currently learning C++, Lua and Spanish!
+- 💻 I'm proficient in C++, and I regularly use tools like Visual Studio 2022 and Visual Studio Code!
+- 🌱 I’m currently learning C++,NeoVim, Lua and Spanish!
 - 📫 How to reach me: SeanJaeger188@gmail.com
-
 
 ## 🚀 My Skills
 - **Languages:** C++
