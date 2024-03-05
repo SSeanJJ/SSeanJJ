@@ -13,4 +13,4 @@
 - **Tools & Technologies:** Visual Studio 2022, Visual Studio Code, Neo Vim.
 
 ## 🔍 Where to Find Me
-- [LinkedIn](https://www.linkedin.com/in/sean-jaeger-a6825022a/)) 🏢
+- [LinkedIn](https://www.linkedin.com/in/sean-jaeger-a6825022a/) 🏢
