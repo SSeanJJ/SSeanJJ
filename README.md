@@ -9,7 +9,7 @@
 - 📫 How to reach me: SeanJaeger188@gmail.com
 
 ## 🚀 My Skills
-- **Languages:** C++
+- **Languages:** C++, Java, Python
 - **Tools & Technologies:** Visual Studio 2022, Visual Studio Code, Neo Vim.
 
 ## 🔍 Where to Find Me
